@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>
-      App 2
+      App 3
     </h1>
   </div>
 </template>
